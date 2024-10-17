@@ -25,8 +25,8 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
  ```
-Name:Sanjith.R
-Reg  no:212223230191
+Name:ViShwaraja R
+Reg  no:212221220060
 admin.py
 from django.contrib import admin
 from .models import Bankloan,BankloanAdmin
